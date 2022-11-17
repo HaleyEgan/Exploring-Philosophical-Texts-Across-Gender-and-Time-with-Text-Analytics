@@ -1,4 +1,4 @@
-text_id,text_title,text_author,text_file
+text_id,title,author,file
 1,NicomachaenEthics,Aristotle,philostexts\Aristotle_NicomachaenEthics-1.txt
 4,OnDuties,Cicero,philostexts\Cicero_OnDuties-4.txt
 5,TheOrderofThings,Foucault,philostexts\Foucault_TheOrderofThings-5.txt
