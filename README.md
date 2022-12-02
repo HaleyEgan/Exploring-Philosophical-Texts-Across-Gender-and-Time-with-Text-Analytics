@@ -24,3 +24,4 @@ The fourth notebook, [‘WordEmbeddings.ipynb’](https://github.com/HaleyEgan/T
 
 The fifth project notebook, [‘SentimentAnalysis.ipynb’](https://github.com/HaleyEgan/Text-Analytics-Philosophy-Project/blob/main/SentimentAnalysis.ipynb), used the NCR lexicon to explore and analyze the top emotions per text, per gender grouping, and per time period. Plots are used to visualize the results.
  
+Lastly, the final report and analysis can be found here, ['Exploring Philosophical Texts with Text Analytics.pdf'](https://github.com/HaleyEgan/Text-Analytics-Philosophy-Project/blob/main/Exploring%20Philosophical%20Texts%20with%20Text%20Analytics.pdf).
