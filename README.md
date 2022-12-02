@@ -16,11 +16,11 @@ Due to these limitations, the distribution of philosophical texts is not even ac
 ## Methodology
 The first project notebook, [‘CleanTexts_BuildTables.ipynb’](https://github.com/HaleyEgan/Text-Analytics-Philosophy-Project/blob/main/CleanTexts_BuildTables.ipynb), imports and cleans the 20 philosophical texts, and then builds the dataframes LIB, DOC, TOKEN, and VOCAB. LIB contains basic metadata about each text, DOC contains preserved paragraphs of each text and the appropriate OHCO index, TOKEN contains an OHCO index and parts-of-speech tags derived from NLTK, and VOCAB contains NLTK to extract stopwords, porter stems, and 'pos_max' that contains the most frequent parts-of-speech tags from the TOKEN table. These are saved as csv files to use for text exploration and analysis in the other project notebooks.
 
-The second notebook, ‘TFIDF_comparingAuhtors.ipynb’, builds a TF-IDF matrix, creates Bag-of-Words, and performs PCA to see if Harriet Taylor Mill wrote Utilitarianism, a text attributed to her husband, John Stuart Mill.
+The second notebook, [‘TFIDF_comparingAuhtors.ipynb’](https://github.com/HaleyEgan/Text-Analytics-Philosophy-Project/blob/main/TFIDF_comparingAuthors.ipynb), builds a TF-IDF matrix, creates Bag-of-Words, and performs PCA to see if Harriet Taylor Mill wrote Utilitarianism, a text attributed to her husband, John Stuart Mill.
 
-The third project notebook, ‘TopicModeling.ipynb’, contains code for LDA and Topic Modeling. The notebook contains an exploration of the overall topics in the texts, as well as the topics in texts grouped by gender and texts grouped by time period.
+The third project notebook, [‘TopicModeling.ipynb’](https://github.com/HaleyEgan/Text-Analytics-Philosophy-Project/blob/main/TopicModeling.ipynb), contains code for LDA and Topic Modeling. The notebook contains an exploration of the overall topics in the texts, as well as the topics in texts grouped by gender and texts grouped by time period.
 
-The fourth notebook, ‘WordEmbeddings.ipynb’, uses word2vec, t-SNE plots, and semantic algebra to explore word use, word similarities and differences, and word evolution between texts, genders, and over time.
+The fourth notebook, [‘WordEmbeddings.ipynb’](https://github.com/HaleyEgan/Text-Analytics-Philosophy-Project/blob/main/WordEmbeddings.ipynb), uses word2vec, t-SNE plots, and semantic algebra to explore word use, word similarities and differences, and word evolution between texts, genders, and over time.
 
-The fifth project notebook, ‘SentimentAnalysis.ipynb’, used the NCR lexicon to explore and analyze the top emotions per text, per gender grouping, and per time period. Plots are used to visualize the results.
+The fifth project notebook, [‘SentimentAnalysis.ipynb’](https://github.com/HaleyEgan/Text-Analytics-Philosophy-Project/blob/main/SentimentAnalysis.ipynb), used the NCR lexicon to explore and analyze the top emotions per text, per gender grouping, and per time period. Plots are used to visualize the results.
  
